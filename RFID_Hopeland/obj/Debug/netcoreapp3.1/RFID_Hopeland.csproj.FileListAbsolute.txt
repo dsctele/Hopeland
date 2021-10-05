@@ -1,0 +1,5 @@
+C:\Users\dschernoski\source\repos\RFID_Hopeland\RFID_Hopeland\obj\Debug\netcoreapp3.1\RFID_Hopeland.csproj.AssemblyReference.cache
+C:\Users\dschernoski\source\repos\RFID_Hopeland\RFID_Hopeland\obj\Debug\netcoreapp3.1\RFID_Hopeland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschernoski\source\repos\RFID_Hopeland\RFID_Hopeland\obj\Debug\netcoreapp3.1\RFID_Hopeland.AssemblyInfoInputs.cache
+C:\Users\dschernoski\source\repos\RFID_Hopeland\RFID_Hopeland\obj\Debug\netcoreapp3.1\RFID_Hopeland.AssemblyInfo.cs
+C:\Users\dschernoski\source\repos\RFID_Hopeland\RFID_Hopeland\obj\Debug\netcoreapp3.1\RFID_Hopeland.csproj.CoreCompileInputs.cache
